@@ -1,4 +1,4 @@
-from nlplogic.corenlp import get_phrases, search_wikipedia, summarize_wikipedia, get_text_blob
+from nlplogic.corenlp import get_phrases
 
 def test_get_phrases():
     phrases = get_phrases("Golden State Warriors")
