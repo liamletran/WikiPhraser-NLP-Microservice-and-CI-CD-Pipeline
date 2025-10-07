@@ -3,3 +3,6 @@ pytest==8.4.2
 pytest-cov==7.0.0
 ipython==9.6.0
 black==25.9.0
+textblob
+wikipedia
+fire
